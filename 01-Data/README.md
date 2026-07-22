@@ -1,1 +1,1 @@
-Data files and sample datasets for the Cyclistic case study.
+Sample, cleaned, and transformed dataset for the Cyclistic case study.

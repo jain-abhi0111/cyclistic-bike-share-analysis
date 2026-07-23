@@ -35,10 +35,15 @@ Analyze Cyclistic's historical bike trip data to compare the riding behavior of 
 ## Key Findings
 
 * **Annual members generated 64.75%** of all trips, while casual riders accounted for **35.25%**.
+  
 * Casual riders rode **56.6% longer** on average (19.29 minutes) than annual members (12.32 minutes).
+  
 * Both rider groups preferred **electric bikes**, indicating that bike type was not a major differentiating factor.
+  
 * Annual members primarily rode during **weekday commuting hours**, while casual riders were most active on **weekends, summer months, and late afternoons**.
+  
 * Casual riders frequently travelled around **Chicago's tourist attractions and lakefront destinations**, whereas members primarily rode between stations in the **downtown business district**.
+  
 * Casual riders completed proportionally more **round trips (7.92%)** than annual members (2.23%), reinforcing their recreational riding behavior.
 
 ---

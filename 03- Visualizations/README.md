@@ -19,9 +19,12 @@
 
 #### 💡 Key Insights:
 * **Market Share:** Annual members drive the core volume with **3,732,745 trips (64.75%)**, demonstrating high platform dependency for daily transportation.
+  
 * **Conversion Opportunity:** Casual riders represent **2,031,791 trips (35.25%)**. This massive volume proves that casual riders aren't just one-off users—they are a high-potential market for membership conversion.
-* **Riding Behavior:** Casual riders average **19.29 minutes per trip**, which is **56.6% longer** than annual members (**12.32 minutes**). 
-* **The Story:** Members use Cyclistic for quick, functional point-to-point transit, while casual riders use bikes for leisure, sightseeing, and recreational exploration.
+  
+* **Riding Behavior:** Casual riders average **19.29 minutes per trip**, which is **56.6% longer** than annual members (**12.32 minutes**).
+  
+**The Story:** Members use Cyclistic for quick, functional point-to-point transit, while casual riders use bikes for leisure, sightseeing, and recreational exploration.
 
 ---
 
@@ -33,8 +36,10 @@
 
 #### 💡 Key Insights:
 * **Strong Electric Preference:** Both groups overwhelmingly favor electric bikes over classic bikes (**68.97% for Casual, 65.60% for Member**).
+  
 * **Equipment Parity:** Classic bike usage remains low for both groups (**31.03% Casual, 34.40% Member**).
-* **The Story:** Hardware preference is **not** a barrier to membership. Casual riders do not avoid memberships because they prefer a different bike type—they share the exact same fleet preference as annual members.
+  
+**The Story:** Hardware preference is **not** a barrier to membership. Casual riders do not avoid memberships because they prefer a different bike type—they share the exact same fleet preference as annual members.
 
 ---
 
@@ -60,12 +65,15 @@
 * **Hourly Peaks:** 
   * **Members** display classic bimodal commuting spikes at **8:00 AM (7.3%)** and **5:00 PM (10.8%)**.
   * **Casual riders** build steadily throughout the day, peaking during late afternoon at **5:00 PM (9.5%)**.
+    
 * **Weekly Trends:**
   * **Members** peak mid-week (**Tuesday at 16.2%**), maintaining stable volume during workdays before dropping on weekends (**Sunday at 10.7%**).
   * **Casual riders** surge on weekends, reaching **21.1% on Saturday** and **16.3% on Sunday**.
+
 * **Monthly Seasonality:**
   * Both groups peak in summer (**July–August**), but casual riders suffer a much steeper drop in winter (**dropping below 2% in Jan/Feb**), compared to members who maintain steady year-round baseline trips.
-* **The Story:** Members commute to work on weekday mornings and evenings year-round. Casual riders ride for recreation on sunny summer weekends and warm afternoons.
+
+**The Story:** Members commute to work on weekday mornings and evenings year-round. Casual riders ride for recreation on sunny summer weekends and warm afternoons.
 
 ---
 
@@ -97,5 +105,7 @@
 
 #### 💡 Key Insights:
 * **Casual Hotspots:** Heavily concentrated around Chicago’s shoreline and tourist attractions. **Navy Pier** leads by a huge margin (**45,972 start trips / 47,271 end trips**), followed by **DuSable Lake Shore Dr & Monroe St** and **Millennium Park**.
+
 * **Member Hotspots:** Located near financial centers and transit hubs like **Canal St & Madison St** (**22,534 start trips / 21,904 end trips**) and **State St & Chicago Ave**.
-* **The Story:** There is a clear geographical split between the two segments. Marketing campaigns aimed at casual riders must target coastal and recreational stations, where casual riders naturally cluster.
+
+**The Story:** There is a clear geographical split between the two segments. Marketing campaigns aimed at casual riders must target coastal and recreational stations, where casual riders naturally cluster.

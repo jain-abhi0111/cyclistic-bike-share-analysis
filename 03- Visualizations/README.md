@@ -1,4 +1,3 @@
----
 ## 📊 Visualizations
 
 ### 1. Trip Volume & Duration

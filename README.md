@@ -64,6 +64,7 @@ Cyclistic-Case-Study/
 │
 ├── Data/
 ├── Scripts/
+├── Visualizations/
 ├── Reports/
 ├── LICENSE/
 └── README.md

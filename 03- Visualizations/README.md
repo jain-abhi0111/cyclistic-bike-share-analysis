@@ -1,36 +1,68 @@
-## 📊 Visualizations
+<hr>
+
+## 📊 Key Visualizations
 
 ### 1. Trip Volume & Duration
-| Total Trips by Rider Type | Average Ride Duration |
-| :---: | :---: |
-| ![Total Trips](03-%20Visualizations/01-%20Total%20Trips%20by%20Rider%20Type.png) | ![Average Duration](03-%20Visualizations/02-%20Average%20Ride%20Duration%20by%20Rider%20Type.png) |
 
----
+<table>
+  <tr>
+    <td align="center"><b>Total Trips by Rider Type</b></td>
+    <td align="center"><b>Average Ride Duration</b></td>
+  </tr>
+  <tr>
+    <td><img src="03- Visualizations/01- Total Trips by Rider Type.png" alt="Total Trips"></td>
+    <td><img src="03- Visualizations/02- Average Ride Duration by Rider Type.png" alt="Average Duration"></td>
+  </tr>
+</table>
+
+<hr>
 
 ### 2. Bike Preferences
-![Preferred Bike Type](03-%20Visualizations/03-%20Preferred%20Bike%20Type.png)
 
----
+<img src="03- Visualizations/03- Preferred Bike Type.png" alt="Preferred Bike Type">
+
+<hr>
 
 ### 3. Temporal Patterns
 
 #### Hourly Riding Pattern
-![Hourly Riding Pattern](03-%20Visualizations/04-%20Hourly%20Riding%20Pattern.png)
+<img src="03- Visualizations/04- Hourly Riding Pattern.png" alt="Hourly Riding Pattern">
 
-| Weekly Riding Pattern | Monthly Riding Pattern |
-| :---: | :---: |
-| ![Weekly Pattern](03-%20Visualizations/05-%20Weekly%20Riding%20Pattern.png) | ![Monthly Pattern](03-%20Visualizations/06-%20Monthly%20Riding%20Pattern.png) |
+<table>
+  <tr>
+    <td align="center"><b>Weekly Riding Pattern</b></td>
+    <td align="center"><b>Monthly Riding Pattern</b></td>
+  </tr>
+  <tr>
+    <td><img src="03- Visualizations/05- Weekly Riding Pattern.png" alt="Weekly Pattern"></td>
+    <td><img src="03- Visualizations/06- Monthly Riding Pattern.png" alt="Monthly Pattern"></td>
+  </tr>
+</table>
 
----
+<hr>
 
 ### 4. Top Stations
 
 #### Top Start Stations
-| Casual Riders | Annual Members |
-| :---: | :---: |
-| ![Casual Start Stations](03-%20Visualizations/07-%20Casual%20Members%20Top%20Start%20Stations.png) | ![Member Start Stations](03-%20Visualizations/09-%20Annual%20Members%20Top%20Start%20Stations.png) |
+<table>
+  <tr>
+    <td align="center"><b>Casual Riders</b></td>
+    <td align="center"><b>Annual Members</b></td>
+  </tr>
+  <tr>
+    <td><img src="03- Visualizations/07- Casual Members Top Start Stations.png" alt="Casual Start Stations"></td>
+    <td><img src="03- Visualizations/09- Annual Members Top Start Stations.png" alt="Member Start Stations"></td>
+  </tr>
+</table>
 
 #### Top End Stations
-| Casual Riders | Annual Members |
-| :---: | :---: |
-| ![Casual End Stations](03-%20Visualizations/08-%20Casual%20Members%20Top%20End%20Stations.png) | ![Member End Stations](03-%20Visualizations/10-%20Annual%20Members%20Top%20End%20Stations.png) |
+<table>
+  <tr>
+    <td align="center"><b>Casual Riders</b></td>
+    <td align="center"><b>Annual Members</b></td>
+  </tr>
+  <tr>
+    <td><img src="03- Visualizations/08- Casual Members Top End Stations.png" alt="Casual End Stations"></td>
+    <td><img src="03- Visualizations/10- Annual Members Top End Stations.png" alt="Member End Stations"></td>
+  </tr>
+</table>
